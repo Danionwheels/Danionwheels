@@ -1,4 +1,11 @@
-## Hi there 👋
+<img src = "https://github.com/Danionwheels/danyonwheels/blob/main/gitBanner.jpeg">
+
+# Technology Im familiar with:
+<p align="left"> <br>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=figma,javascript,python,mysql,github&perline=7" />
+  </a>
+</p>
 
 <!--
 **Danionwheels/Danionwheels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
