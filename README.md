@@ -74,7 +74,7 @@ A personal blog where I’ll share useful thoughts, experiments, and notes acros
   </tr>
 
   <tr>
-    <td><b>2</b></td>
+    <td width="30"><b>2</b></td>
     <td>
       <img src="https://i.scdn.co/image/ab67616d00001e02e18e453b8427bc066a37ee91" width="60" />
     </td>
@@ -85,13 +85,23 @@ A personal blog where I’ll share useful thoughts, experiments, and notes acros
   </tr>
 
   <tr>
-    <td><b>3</b></td>
+    <td width="30"><b>3</b></td>
     <td>
       <img src="https://i.ytimg.com/vi/9Qxltho3TTw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDO6L_XdQEPDE3Jr6akpbEZUFf10Q" width="60" />
     </td>
     <td>
       <b>one more time tonight</b><br/>
       <sub>daimon noir</sub>
+    </td>
+  </tr>
+   <tr>
+    <td width="30"><b>4</b></td>
+    <td>
+      <img src="https://i1.sndcdn.com/artworks-000438870714-xx6ao8-t500x500.jpg" width="60" />
+    </td>
+    <td>
+      <b>can i call you tonight</b><br/>
+      <sub>Dayglow</sub>
     </td>
   </tr>
 </table>
