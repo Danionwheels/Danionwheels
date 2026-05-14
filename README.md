@@ -76,7 +76,7 @@ A personal blog where I’ll share useful thoughts, experiments, and notes acros
   <tr>
     <td><b>2</b></td>
     <td>
-      <img src="https://open.spotify.com/track/4kIn5k9f17N5TDpVaqD2eR" width="60" />
+      <img src="https://i.scdn.co/image/ab67616d00001e02e18e453b8427bc066a37ee91" width="60" />
     </td>
     <td>
       <b>Iris</b><br/>
@@ -87,7 +87,7 @@ A personal blog where I’ll share useful thoughts, experiments, and notes acros
   <tr>
     <td><b>3</b></td>
     <td>
-      <img src="https://www.google.com/imgres?q=one%20more%20time%20tonight%20daimon%20noir&imgurl=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d00001e02db5db85fa582de1983dbefde&imgrefurl=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F1QxwzW5gIyuuY0J72sVdIX&docid=h0vGG4IRc7-x_M&tbnid=T4jCNSZ5B5etUM&vet=12ahUKEwjik7Wl1beUAxVQU0EAHeb8Hy4QnPAOegQIERAB..i&w=300&h=300&hcb=2&itg=1&ved=2ahUKEwjik7Wl1beUAxVQU0EAHeb8Hy4QnPAOegQIERAB" width="60" />
+      <img src="https://i.ytimg.com/vi/9Qxltho3TTw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDO6L_XdQEPDE3Jr6akpbEZUFf10Q" width="60" />
     </td>
     <td>
       <b>one more time tonight</b><br/>
