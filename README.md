@@ -18,6 +18,17 @@ I’m detail-oriented and always trying to make things better. I haven’t reach
 
 A personal blog where I’ll share useful thoughts, experiments, and notes across different interests — software engineering, cars, bikes, horses, farm life, and anything worth writing about.
 
+Programming Languages:
+<img src="https://skillicons.dev/icons?i=javascript, c++, python, c#" />
+
+Libraries and Frameworks:
+<img src="https://skillicons.dev/icons?i=express, react, django, .net" />
+
+Databases:
+<img src="https://skillicons.dev/icons?i=mongo, mysql, postgresql" />
+
+Tools:
+<img src="https://skillicons.dev/icons?=figma, postman, insomnia" />
 # Technology Im familiar with:
 <p align="left"> <br>
 <a href="https://skillicons.dev">
