@@ -65,33 +65,33 @@ A personal blog where I’ll share useful thoughts, experiments, and notes acros
   <tr>
     <td width="40"><b>1</b></td>
     <td width="70">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/fc/47/79fc4751-9055-f68d-83ce-1b74251aba62/a908f8d2-03bb-4bef-b908-68423a880636.jpg/800x800cc.jpg" width="60" />
+      <img src="https://i.scdn.co/image/ab67616d0000b273cd0b12c436540094afb9a8b2" width="60" />
     </td>
     <td>
-      <b>Silhoutte</b><br/>
-      <sub>moire lights</sub>
+      <b>We live in the future</b><br/>
+      <sub>Home</sub>
     </td>
   </tr>
 
   <tr>
     <td><b>2</b></td>
     <td>
-      <img src="IMAGE_URL_HERE" width="60" />
+      <img src="https://open.spotify.com/track/4kIn5k9f17N5TDpVaqD2eR" width="60" />
     </td>
     <td>
-      <b>Track Name</b><br/>
-      <sub>Artist Name</sub>
+      <b>Iris</b><br/>
+      <sub>Forhill</sub>
     </td>
   </tr>
 
   <tr>
     <td><b>3</b></td>
     <td>
-      <img src="IMAGE_URL_HERE" width="60" />
+      <img src="https://www.google.com/imgres?q=one%20more%20time%20tonight%20daimon%20noir&imgurl=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d00001e02db5db85fa582de1983dbefde&imgrefurl=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F1QxwzW5gIyuuY0J72sVdIX&docid=h0vGG4IRc7-x_M&tbnid=T4jCNSZ5B5etUM&vet=12ahUKEwjik7Wl1beUAxVQU0EAHeb8Hy4QnPAOegQIERAB..i&w=300&h=300&hcb=2&itg=1&ved=2ahUKEwjik7Wl1beUAxVQU0EAHeb8Hy4QnPAOegQIERAB" width="60" />
     </td>
     <td>
-      <b>Track Name</b><br/>
-      <sub>Artist Name</sub>
+      <b>one more time tonight</b><br/>
+      <sub>daimon noir</sub>
     </td>
   </tr>
 </table>
