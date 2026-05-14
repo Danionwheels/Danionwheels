@@ -50,7 +50,7 @@ A personal blog where I’ll share useful thoughts, experiments, and notes acros
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,postman,git" />
+    <img src="https://skillicons.dev/icons?i=figma,postman,github" />
   </a>
 </p>
 
