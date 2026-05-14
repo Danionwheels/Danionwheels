@@ -65,7 +65,7 @@ A personal blog where I’ll share useful thoughts, experiments, and notes acros
   <tr>
     <td width="40"><b>1</b></td>
     <td width="70">
-      <img src="[IMAGE_URL_HERE](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/fc/47/79fc4751-9055-f68d-83ce-1b74251aba62/a908f8d2-03bb-4bef-b908-68423a880636.jpg/800x800cc.jpg)" width="60" />
+      <img src="(https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/fc/47/79fc4751-9055-f68d-83ce-1b74251aba62/a908f8d2-03bb-4bef-b908-68423a880636.jpg/800x800cc.jpg)" width="60" />
     </td>
     <td>
       <b>Silhoutte</b><br/>
