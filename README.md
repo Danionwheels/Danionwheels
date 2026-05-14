@@ -17,7 +17,7 @@ I’m detail-oriented and always trying to make things better. I haven’t reach
 [daniyalmutahharsaleem.com](https://daniyalmutahharsaleem.com)
 
 A personal blog where I’ll share useful thoughts, experiments, and notes across different interests — software engineering, cars, bikes, horses, farm life, and anything worth writing about.
-
+<a href="https://skillicons.dev">
 Programming Languages:
 <img src="https://skillicons.dev/icons?i=javascript, c++, python, c#" />
 
