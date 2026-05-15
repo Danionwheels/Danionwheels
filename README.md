@@ -76,11 +76,11 @@ A personal blog where I’ll share useful thoughts, experiments, and notes acros
   <tr>
     <td width="30"><b>2</b></td>
     <td>
-      <img src="https://i.scdn.co/image/ab67616d00001e02e18e453b8427bc066a37ee91" width="60" />
+      <img src="https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43" width="60" />
     </td>
     <td>
-      <b>Iris</b><br/>
-      <sub>Forhill</sub>
+      <b>Maniac</b><br/>
+      <sub>Conan Gray</sub>
     </td>
   </tr>
 
@@ -111,7 +111,7 @@ A personal blog where I’ll share useful thoughts, experiments, and notes acros
     </td>
     <td>
       <b>remember you</b><br/>
-      <sub>Conro/sub>
+      <sub>Conro</sub>
     </td>
   </tr>
 </table>
