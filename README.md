@@ -1,22 +1,25 @@
 <img src="https://github.com/Danionwheels/Danionwheels/blob/main/gitBanner.jpeg">
 
-## Co-Founder — FORGEAXIS Technologies
+## Hi, I'm Daniyal
 
-Other than writing `Hello World`, I like building things that are reliable, useful, and refined.
+### Co-Founder — FORGEAXIS Technologies
 
-I love cars — especially classic wheels — and I maintain them the same way one maintains servers meant to stay available 24/7: carefully, consistently, and with attention to detail.
+- Software engineering student and full-stack developer in progress.
+- Building with the MERN stack while learning cleaner architecture and better engineering practices.
+- Interested in reliable, useful, and refined software products.
+- Other than writing `Hello World`, I like building things that actually solve problems.
+- I’m into classic cars, bikes, horses, old-school farm life, and anything with character and craftsmanship.
+- Currently learning, building, breaking, fixing, and improving one project at a time.
 
-My journey as a full-stack developer has been interesting, but why does it seem interesting to you? That part is between me and my life.
+---
 
-Beyond code, cars, and polishing bikes, I’m also drawn to horses, old-school farm life, and anything that carries character, discipline, and craftsmanship.
+## Currently Focused On
 
-I’m detail-oriented and always trying to make things better. I haven’t reached perfection in software engineering yet, but I’m improving every day — learning, building, breaking, fixing, and becoming a more experienced full-stack developer.
-
-### Coming Soon
-
-[daniyalmutahharsaleem.com](https://daniyalmutahharsaleem.com)
-
-A personal blog where I’ll share useful thoughts, experiments, and notes across different interests — software engineering, cars, bikes, horses, farm life, and anything worth writing about.
+- Full-stack web development
+- MERN stack applications
+- Backend architecture
+- Clean and maintainable code
+- Real-world product development
 
 ---
 
@@ -54,12 +57,21 @@ A personal blog where I’ll share useful thoughts, experiments, and notes acros
   </a>
 </p>
 
+---
 
-## 🎵 Soundtrack Behind the Code
+## Coming Soon
+
+[daniyalmutahharsaleem.com](https://daniyalmutahharsaleem.com)
+
+A personal blog for notes, experiments, and thoughts around software engineering, cars, bikes, horses, farm life, and anything worth writing about.
+
+---
+
+## Soundtrack Behind the Code
 
 <table>
   <tr>
-    <th colspan="3">Now Playing / Current Favorites</th>
+    <th colspan="3">Current Favorites</th>
   </tr>
 
   <tr>
@@ -68,13 +80,13 @@ A personal blog where I’ll share useful thoughts, experiments, and notes acros
       <img src="https://i.scdn.co/image/ab67616d0000b273cd0b12c436540094afb9a8b2" width="60" />
     </td>
     <td>
-      <b>We live in the future</b><br/>
+      <b>We Live in the Future</b><br/>
       <sub>Home</sub>
     </td>
   </tr>
 
   <tr>
-    <td width="30"><b>2</b></td>
+    <td><b>2</b></td>
     <td>
       <img src="https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43" width="60" />
     </td>
@@ -85,47 +97,35 @@ A personal blog where I’ll share useful thoughts, experiments, and notes acros
   </tr>
 
   <tr>
-    <td width="30"><b>3</b></td>
+    <td><b>3</b></td>
     <td>
       <img src="https://i.ytimg.com/vi/9Qxltho3TTw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDO6L_XdQEPDE3Jr6akpbEZUFf10Q" width="60" />
     </td>
     <td>
-      <b>one more time tonight</b><br/>
-      <sub>daimon noir</sub>
+      <b>One More Time Tonight</b><br/>
+      <sub>Daimon Noir</sub>
     </td>
   </tr>
-   <tr>
-    <td width="30"><b>4</b></td>
+
+  <tr>
+    <td><b>4</b></td>
     <td>
       <img src="https://i1.sndcdn.com/artworks-000438870714-xx6ao8-t500x500.jpg" width="60" />
     </td>
     <td>
-      <b>can i call you tonight</b><br/>
+      <b>Can I Call You Tonight?</b><br/>
       <sub>Dayglow</sub>
     </td>
   </tr>
-   <tr>
-    <td width="30"><b>5</b></td>
+
+  <tr>
+    <td><b>5</b></td>
     <td>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStbxZoJTQMtQMG8iawGWbJ4mIbhiHLepdkcA&s" width="60" />
     </td>
     <td>
-      <b>remember you</b><br/>
+      <b>Remember You</b><br/>
       <sub>Conro</sub>
     </td>
   </tr>
 </table>
-<!--
-**Danionwheels/Danionwheels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
