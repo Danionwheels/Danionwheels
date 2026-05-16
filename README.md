@@ -1,7 +1,5 @@
 <img src="https://github.com/Danionwheels/Danionwheels/blob/main/gitBanner.jpeg">
 
-## Hi, I'm Daniyal
-
 ### Co-Founder — FORGEAXIS Technologies
 
 - Software engineering student and full-stack developer in progress.
