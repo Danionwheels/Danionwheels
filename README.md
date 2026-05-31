@@ -1,6 +1,6 @@
 <img src="https://github.com/Danionwheels/Danionwheels/blob/main/gitBanner.jpeg">
 
-### Co-Founder — FORGEAXIS Technologies
+### Founder — FORGEAXIS Technologies
 
 - Software engineering student and full-stack developer in progress.
 - Building with the MERN stack while learning cleaner architecture and better engineering practices.
