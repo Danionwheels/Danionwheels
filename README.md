@@ -11,12 +11,19 @@ I started with MERN-based development, but I no longer think of myself as tied t
 
 ## In the Workshop
 
-I like software the way I like old machines: reliable, understandable, and worth maintaining.
+```console
+daniyal@forgeaxis:~/workshop$ ./build-principles
+```
 
-- Building offline-first flows that do not panic when Wi-Fi disappears.
-- Designing APIs that future me can read without filing a complaint.
-- Keeping interfaces calm, useful, and fast.
-- Choosing tools for the problem, not for the trend.
+```txt
+I like software the way I like old machines:
+reliable, understandable, and worth maintaining.
+
+[offline-first]  Building offline-first flows that do not panic when Wi-Fi disappears.
+[api-design]     Designing APIs that future me can read without filing a complaint.
+[interface]      Keeping interfaces calm, useful, and fast.
+[tooling]        Choosing tools for the problem, not for the trend.
+```
 
 ## What I Build
 
