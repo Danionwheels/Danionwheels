@@ -9,6 +9,7 @@ I build practical software systems across frontend, backend, and cloud — with 
 I started with MERN-based development, but I no longer think of myself as tied to one stack. My work has grown into broader product engineering: TypeScript and React on the frontend, .NET on the backend, cloud APIs, desktop application experience, and systems designed to solve real problems instead of simply fitting a tool.
 
 > If the app only works online, I get suspicious.
+
 ---
 
 ## In the Workshop
@@ -73,8 +74,9 @@ My goal is not to be defined by one framework. I prefer understanding the proble
 
 ## FORGEAXIS Technologies
 
-Founder of **FORGEAXIS Technologies** — a place where I am shaping practical software ideas into reliable product systems.
+FORGEAXIS is where I shape practical software ideas into reliable product systems — from frontend experiences and backend services to cloud APIs and offline-first workflows.
 
+The direction is simple: build software that is useful, durable, and thoughtfully engineered.
 ---
 
 ## Beyond the Code
