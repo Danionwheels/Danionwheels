@@ -6,7 +6,17 @@ I build practical software systems across frontend, backend, and cloud — with 
 
 I started with MERN-based development, but I no longer think of myself as tied to one stack. My work has grown into broader product engineering: TypeScript and React on the frontend, .NET on the backend, cloud APIs, desktop application experience, and systems designed to solve real problems instead of simply fitting a tool.
 
+> If the app only works online, I get suspicious.
 ---
+
+## In the Workshop
+
+I like software the way I like old machines: reliable, understandable, and worth maintaining.
+
+- Building offline-first flows that do not panic when Wi-Fi disappears.
+- Designing APIs that future me can read without filing a complaint.
+- Keeping interfaces calm, useful, and fast.
+- Choosing tools for the problem, not for the trend.
 
 ## What I Build
 
