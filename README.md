@@ -2,6 +2,8 @@
 
 ### Building offline-first, cloud-connected software systems
 
+**Founder, FORGEAXIS Technologies** — shaping practical software ideas into reliable product systems.
+
 I build practical software systems across frontend, backend, and cloud — with a current focus on offline-first, cloud-connected applications.
 
 I started with MERN-based development, but I no longer think of myself as tied to one stack. My work has grown into broader product engineering: TypeScript and React on the frontend, .NET on the backend, cloud APIs, desktop application experience, and systems designed to solve real problems instead of simply fitting a tool.
