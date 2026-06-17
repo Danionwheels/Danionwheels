@@ -1,6 +1,6 @@
 <img src="./gitBanner.jpeg" alt="Daniyal Mutahhar — Product Engineer · Offline-first Applications" width="100%" />
 
-### Product Engineer · Offline-first Applications
+### Building offline-first, cloud-connected software systems
 
 I build practical software systems across frontend, backend, and cloud — with a current focus on offline-first, cloud-connected applications.
 
