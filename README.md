@@ -1,4 +1,4 @@
-<img src="./gitBanner.jpeg" alt="Daniyal Mutahhar — Product Engineer · Offline-first Applications" width="100%" />
+<img src="./gitBanner.jpeg" alt="Daniyal Mutahhar — Product Engineer · Offline-first Applications" width="1800" height="600" />
 
 ### Building offline-first, cloud-connected software systems
 
@@ -32,7 +32,7 @@ I started with MERN-based development, but I no longer think of myself as tied t
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,dotnet,cs,nodejs,express,js,python,cpp,mongodb,postgres,mysql,git,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=ts,react,dotnet,cs,nodejs,express,js,python,cpp,mongodb,postgres,mysql,git,postman,figma" alt="TypeScript, React, .NET, C#, Node.js, Express, JavaScript, Python, C++, MongoDB, PostgreSQL, MySQL, Git, Postman, and Figma" />
   </a>
 </p>
 
