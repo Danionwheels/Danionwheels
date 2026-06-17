@@ -1,59 +1,68 @@
-<img src="https://github.com/Danionwheels/Danionwheels/blob/main/gitBanner.jpeg">
+<img src="./gitBanner.jpeg" alt="Daniyal Mutahhar — Product Engineer · Offline-first Applications" width="100%" />
 
-### Founder — FORGEAXIS Technologies
+### Product Engineer · Offline-first Applications
 
-- Software engineering student and full-stack developer in progress.
-- Building with the MERN stack while learning cleaner architecture and better engineering practices.
-- Interested in reliable, useful, and refined software products.
-- Other than writing `Hello World`, I like building things that actually solve problems.
-- I’m into classic cars, bikes, horses, old-school farm life, and anything with character and craftsmanship.
-- Currently learning, building, breaking, fixing, and improving one project at a time.
+I build practical software systems across frontend, backend, and cloud — with a current focus on offline-first, cloud-connected applications.
+
+I started with MERN-based development, but I no longer think of myself as tied to one stack. My work has grown into broader product engineering: TypeScript and React on the frontend, .NET on the backend, cloud APIs, desktop application experience, and systems designed to solve real problems instead of simply fitting a tool.
 
 ---
 
-## Currently Focused On
+## What I Build
 
-- Full-stack web development
-- MERN stack applications
-- Backend architecture
-- Clean and maintainable code
-- Real-world product development
+- Offline-first and cloud-connected applications
+- Product workflows that stay usable, reliable, and maintainable
+- Frontend experiences with TypeScript and React
+- Backend services, APIs, and application logic with .NET
+- Practical software systems shaped around real-world problems
 
 ---
 
-## Technologies I’m Familiar With
+## Current Focus
 
-### Programming Languages
+- Offline-first application architecture
+- Cloud API design and integration
+- Clean, maintainable frontend and backend structure
+- Reliable data flow between local and remote systems
+- Product engineering beyond a single framework or stack
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,cpp,python,cs" />
-  </a>
-</p>
+---
 
-### Libraries & Frameworks
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,dotnet" />
-  </a>
-</p>
-
-### Databases
+## Stack I Work With
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=ts,react,dotnet,cs,nodejs,express,js,python,cpp,mongodb,postgres,mysql,git,postman,figma" />
   </a>
 </p>
 
-### Tools
+**Frontend:** TypeScript, React, JavaScript  
+**Backend:** .NET, C#, Node.js, Express  
+**Data:** PostgreSQL, MongoDB, MySQL  
+**Also worked with:** desktop applications, Python, C++, Django  
+**Tools:** Git, Postman, Figma
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,postman,git" />
-  </a>
-</p>
+---
+
+## Engineering Direction
+
+I care about software that feels refined from the inside out: simple interfaces, clear architecture, dependable behavior, and code that can keep growing without turning fragile.
+
+My goal is not to be defined by one framework. I prefer understanding the problem, choosing the right tools, and building the kind of system the product actually needs.
+
+---
+
+## FORGEAXIS Technologies
+
+Founder of **FORGEAXIS Technologies** — a place where I am shaping practical software ideas into reliable product systems.
+
+---
+
+## Beyond the Code
+
+I am into classic cars, bikes, horses, old-school farm life, and anything with character, utility, and craftsmanship.
+
+That same taste shows up in the software I like to build: clean, useful, durable, and not overdone.
 
 ---
 
@@ -61,69 +70,21 @@
 
 [daniyalmutahharsaleem.com](https://daniyalmutahharsaleem.com)
 
-A personal blog for notes, experiments, and thoughts around software engineering, cars, bikes, horses, farm life, and anything worth writing about.
+A personal space for notes, experiments, and thoughts around software engineering, product building, cars, bikes, horses, farm life, and anything worth writing about.
 
 ---
 
-## Soundtrack Behind the Code
+<details>
+  <summary><b>Soundtrack Behind the Code</b></summary>
 
-<table>
-  <tr>
-    <th colspan="3">Current Favorites</th>
-  </tr>
+<br />
 
-  <tr>
-    <td width="40"><b>1</b></td>
-    <td width="70">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cd0b12c436540094afb9a8b2" width="60" />
-    </td>
-    <td>
-      <b>We Live in the Future</b><br/>
-      <sub>Home</sub>
-    </td>
-  </tr>
+| # | Track | Artist |
+|---|-------|--------|
+| 1 | We Live in the Future | Home |
+| 2 | Maniac | Conan Gray |
+| 3 | One More Time Tonight | Daimon Noir |
+| 4 | Can I Call You Tonight? | Dayglow |
+| 5 | Remember You | Conro |
 
-  <tr>
-    <td><b>2</b></td>
-    <td>
-      <img src="https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43" width="60" />
-    </td>
-    <td>
-      <b>Maniac</b><br/>
-      <sub>Conan Gray</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>3</b></td>
-    <td>
-      <img src="https://i.ytimg.com/vi/9Qxltho3TTw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDO6L_XdQEPDE3Jr6akpbEZUFf10Q" width="60" />
-    </td>
-    <td>
-      <b>One More Time Tonight</b><br/>
-      <sub>Daimon Noir</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>4</b></td>
-    <td>
-      <img src="https://i1.sndcdn.com/artworks-000438870714-xx6ao8-t500x500.jpg" width="60" />
-    </td>
-    <td>
-      <b>Can I Call You Tonight?</b><br/>
-      <sub>Dayglow</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>5</b></td>
-    <td>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStbxZoJTQMtQMG8iawGWbJ4mIbhiHLepdkcA&s" width="60" />
-    </td>
-    <td>
-      <b>Remember You</b><br/>
-      <sub>Conro</sub>
-    </td>
-  </tr>
-</table>
+</details>
